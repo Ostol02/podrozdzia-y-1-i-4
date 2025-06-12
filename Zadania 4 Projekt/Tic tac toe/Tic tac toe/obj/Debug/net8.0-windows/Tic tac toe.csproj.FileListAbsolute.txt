@@ -1,0 +1,16 @@
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\bin\Debug\net8.0-windows\Tic tac toe.exe
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\bin\Debug\net8.0-windows\Tic tac toe.deps.json
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\bin\Debug\net8.0-windows\Tic tac toe.runtimeconfig.json
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\bin\Debug\net8.0-windows\Tic tac toe.dll
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\bin\Debug\net8.0-windows\Tic tac toe.pdb
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\obj\Debug\net8.0-windows\Tic_tac_toe.Form1.resources
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\obj\Debug\net8.0-windows\Tic tac toe.csproj.GenerateResource.cache
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\obj\Debug\net8.0-windows\Tic tac toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\obj\Debug\net8.0-windows\Tic tac toe.AssemblyInfoInputs.cache
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\obj\Debug\net8.0-windows\Tic tac toe.AssemblyInfo.cs
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\obj\Debug\net8.0-windows\Tic tac toe.csproj.CoreCompileInputs.cache
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\obj\Debug\net8.0-windows\Tic tac toe.dll
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\obj\Debug\net8.0-windows\refint\Tic tac toe.dll
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\obj\Debug\net8.0-windows\Tic tac toe.pdb
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\obj\Debug\net8.0-windows\Tic tac toe.genruntimeconfig.cache
+D:\Projekt lesiu\Tic tac toe\Tic tac toe\obj\Debug\net8.0-windows\ref\Tic tac toe.dll
